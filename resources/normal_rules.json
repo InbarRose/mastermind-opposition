@@ -1,0 +1,11 @@
+{
+  "params": {
+    "colors": 6,
+    "holes": 4,
+    "rounds": 10
+  },
+  "condition": {
+    "blanks": false,
+    "duplicates": true
+  }
+}
